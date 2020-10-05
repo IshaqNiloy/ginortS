@@ -1,5 +1,5 @@
 # ginortS
-<h1>HackerRank Python problem<h1>
+<h1>HackerRank Python problem</h1>
 
 <img src = "https://i.imgur.com/u7WkSk7.gif" alt = "dancing letters">
 
