@@ -1,0 +1,2 @@
+# ginortS
+HackerRank Python problem
